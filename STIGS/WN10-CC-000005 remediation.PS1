@@ -16,7 +16,7 @@
 .TESTED ON
     Date(s) Tested  : 2025-06-28
     Tested By       : Paul Van Mierlo 
-    Systems Tested  : In progress
+    Systems Tested  : 2025-06-28
     PowerShell Ver. : 5.1+
 
 .USAGE
