@@ -14,7 +14,7 @@
 .TESTED ON
     Date(s) Tested  : 2025-06-28
     Tested By       : Paul Van Mierlo
-    Systems Tested  : Windows 10 22H2 Semi-Annual Channel
+    Systems Tested  :In progress
     PowerShell Ver. : 5.1+
 
 .USAGE
